@@ -13,3 +13,5 @@ while numba_two <0:
 
 print(numba_one + numba_two)
 print(numba_one - numba_two)
+print(numba_one * numba_two)
+print(numba_one / numba_two)
